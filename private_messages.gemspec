@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["railscode@gmail.com"]
   spec.description   = "Sending Messages beetween users. Rails + Devise"
   spec.summary       = "Sending Messages beetween users. Rails + Devise"
-  spec.homepage      = "https://github.com/vav/private_messages"
+  spec.homepage      = "https://github.com/st-granat/private_messages"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
